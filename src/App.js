@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
      
-      <h1>rttrtriuut</h1>
+      <h1>rttr</h1>
     </div>
   );
 }
